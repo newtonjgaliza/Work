@@ -1,0 +1,20 @@
+{
+    "configuracoes": 
+    [
+        {
+            "cms": {
+                "url": "https://araruama.rj.gov.br/cms",
+                "email": "newtonjgaliza@gmail.com",
+                "password": "narutopbsoft25"
+            },
+            "upload": {
+                "caminho_base": "/home/newton/Music/Araruama/AtosGP",
+                "caminho_backup": "/home/newton/Music/Araruama/Arquivos_enviados",
+                "caminho_erros": "/home/newton/Music/Araruama/Arquivos_NAO_enviados",
+                "max_tentativas": 3,
+                "nome_da_categoria": "Atos GP",
+                "menu_do_cms": "Publicações"
+            }
+        }
+    ]
+}
