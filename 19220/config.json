@@ -1,0 +1,8 @@
+{
+  "cms_url": "https://www.acari.rn.gov.br/cms",
+  "cms_email": "suporte@maxima.inf.br",
+  "cms_password": "j5a4mQQdVGerSh",
+  "categoria_legislacao": "Leis Municipais",
+  "json_dados": "jsons/acari-leis-6-final.json",
+  "menu_opcao": "Legislação"
+}
