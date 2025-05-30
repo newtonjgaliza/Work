@@ -1,0 +1,1 @@
+coletar documentos da camara de Acari e inclui-los no CMS da prefeitura.
