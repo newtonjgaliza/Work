@@ -12,8 +12,8 @@ from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.common.keys import Keys
 #endregion
 
-arquivo_campos = '/home/newton/Vídeos/revisao/veramendes/campos_vera_mendes.json'
-arquivo_respostas = '/home/newton/Vídeos/revisao/veramendes/respostas_vera_mendes.json'
+arquivo_campos = 'perguntas.json'
+arquivo_respostas = 'resultados.json'
 
 #region CONFIGURAÇÃO
 # Carregar arquivos JSON
